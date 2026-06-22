@@ -45,16 +45,14 @@ Throughout this internship, I am learning modern frontend and backend technologi
 
 ---
 
-## Weekly Progress
+## Internship Progress
 
-| Week | Status |
-|--------|---------|
-| Week 01 | ✅ Completed |
-| Week 02 | ⏳ Ongoing |
-| Week 03 | Upcoming |
-| Week 04 | Upcoming |
-
----
+| Week | Status | Topics |
+|------|---------|---------|
+| Week 01 | ✅ Completed | HTML, CSS, JavaScript, CRUD, APIs |
+| Week 02 | 🚧 Ongoing | MySQL Database |
+| Week 03 | ⏳ Upcoming | PHP Basics |
+| Week 04 | ⏳ Upcoming | Laravel Fundamentals |
 
 ## Goals
 
