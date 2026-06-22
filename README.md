@@ -3,8 +3,27 @@
 ## About
 
 This repository documents my 6-month Full Stack Development Internship journey.
-
 Throughout this internship, I am learning modern frontend and backend technologies while building practical applications and strengthening my problem-solving skills.
+
+---
+
+## Quick Navigation
+
+### Repository Sections
+
+- Weekly-Progress
+- Learning Notes
+- Screenshots
+
+### Current Progress
+
+- Week 01 Progress Report
+- Week 02 Progress Report
+
+### Learning Notes
+
+- HTML, CSS & JavaScript
+- MySQL Database
 
 ---
 
