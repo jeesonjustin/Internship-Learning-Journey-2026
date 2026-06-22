@@ -2,8 +2,6 @@
   <img src="Assets/Banner/internship-banner2.png" alt="Internship Banner">
 </p>
 
-# Internship Learning Journey 2026
-
 ## About
 
 This repository documents my 6-month Full Stack Development Internship journey.
