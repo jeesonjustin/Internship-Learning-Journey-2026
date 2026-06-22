@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Banner/internship-banner.png" alt="Internship Banner">
+  <img src="Assets/Banner/internship-banner2.png" alt="Internship Banner">
 </p>
 
 # Internship Learning Journey 2026
