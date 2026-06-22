@@ -32,8 +32,6 @@ Built a personal profile card application featuring:
 - Dark/Light mode toggle
 - Digital clock and date-time display
 
-#### Screenshots: ![Day 1](../Assets/Screenshots/week01-day01-profile-card.png)
-
 ### Day 2 – Student Registration Form
 
 Developed a student registration form with:
@@ -43,8 +41,6 @@ Developed a student registration form with:
 - User-friendly interface
 - Structured form design
 
-#### Screenshots: ![Day 2](../Assets/Screenshots/week01-day02-registration-form.png)
-
 ### Day 3 – Student Registration CRUD System
 
 Enhanced the registration form by implementing:
@@ -53,8 +49,6 @@ Enhanced the registration form by implementing:
 - Dynamic table rendering
 - Edit and delete functionality
 - Success notifications
-
-#### Screenshots: ![Day 3](../Assets/Screenshots/week01-day03-crud-system.png)
 
 ### Day 4 – Student Registration System Enhancement
 
@@ -67,8 +61,6 @@ Improved the CRUD application with:
 - Delete and update confirmations
 - Responsive UI improvements
 
-#### Screenshots: ![Day 4](../Assets/Screenshots/week01-day04-enhancement.png)
-
 ### Day 5 – User Directory Application
 
 Built a user directory using a public REST API:
@@ -79,8 +71,6 @@ Built a user directory using a public REST API:
 - User detail view
 - Error handling
 - Dark/Light mode support
-
-#### Screenshots: ![Day 5](../Assets/Screenshots/week01-day05-user-directory.png)
 
 ### Day 6 – Weather Dashboard
 
@@ -93,8 +83,6 @@ Developed a weather dashboard using Open-Meteo API:
 - Error handling
 - Responsive design
 - Dark/Light theme support
-
-#### Screenshots: ![Day 6](../Assets/Screenshots/week01-day06-weather-dashboard.png)
 
 ---
 
