@@ -12,6 +12,8 @@ Throughout this internship, I am learning modern frontend and backend technologi
 
 ### Frontend
 
+- HTML
+- Javascript
 - Angular 20
 - TypeScript
 - Tailwind CSS
