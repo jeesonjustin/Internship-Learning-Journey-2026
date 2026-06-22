@@ -11,19 +11,19 @@ Throughout this internship, I am learning modern frontend and backend technologi
 
 ### Repository Sections
 
-- ./Weekly-Progress
-- ./Learning-Notes
-- ./Assets/Screenshots
+* [Weekly Progress](./Weekly-Progress)
+* [Learning Notes](./Learning-Notes)
+* [Screenshots](./Assets/Screenshots)
 
 ### Current Progress
 
-- ./Weekly-Progress/Week-01.md
-- ./Weekly-Progress/Week-02.md
+* [Week 01 Progress Report](./Weekly-Progress/Week-01.md)
+* [Week 02 Progress Report](./Weekly-Progress/Week-02.md)
 
 ### Learning Notes
 
-- ./Learning-Notes/HTML-CSS-JS
-- ./Learning-Notes/MySQL-Database
+* [HTML, CSS & JavaScript](./Learning-Notes/HTML-CSS-JS)
+* [MySQL Database](./Learning-Notes/MySQL-Database)
 
 ---
 
