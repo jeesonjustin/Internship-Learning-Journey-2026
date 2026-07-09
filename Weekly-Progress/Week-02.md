@@ -149,23 +149,24 @@ Successfully completed Week 02 by gaining hands-on experience in SQL, relational
 
 ---
 
-## Screenshots
+## Project Files
 
-### Day 8 – Database Queries
+The practical tasks completed during Week 02 are organized in the **Projects** directory.
 
-![Day 8](../Assets/Screenshots/week02-day08-database-queries.png)
+| Task | Description | Project |
+|------|-------------|---------|
+| Day 8 | Database Creation & SQL Basics | [Task08_SQL-Basics](../Projects/Week-02/Task08_SQL-Basics/) |
+| Day 9 | SQL Database Operations | [Task09_SQL-Operations](../Projects/Week-02/Task09_SQL-Operations/) |
+| Day 10 | SQL Joins | [Task10_SQL-Joins](../Projects/Week-02/Task10_SQL-Joins/) |
 
-### Day 9 – Database Operations
+---
 
-![Day 9](../Assets/Screenshots/week02-day09-database-operations.png)
+## Learning Resources
 
-### Day 10 – SQL Joins
+The concepts studied during Week 02 are documented in the **Learning-Notes** section.
 
-![Day 10](../Assets/Screenshots/week02-day10-sql-joins.png)
-
-### PHP Fundamentals
-
-![PHP Basics](../Assets/Screenshots/week02-php-basics.png)
+- 📘 SQL & MySQL Notes
+- 📘 PHP Fundamentals Notes
 
 ---
 
