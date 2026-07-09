@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>V2- Student Registration System - Day 4</title>
+    <link rel="stylesheet" href="style4.css">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h2>Student Registration System</h2>
+
+        <p id="message"></p>
+
+        <form onsubmit="return saveStudent()">
+
+            <label>Full Name</label>
+            <input type="text" id="name">
+            <span id="nameError" class="error-message"></span>
+
+            <label>Email</label>
+            <input type="email" id="email">
+            <span id="emailError" class="error-message"></span>
+
+            <label>Mobile</label>
+            <input type="text" id="mobile">
+            <span id="mobileError" class="error-message"></span>
+
+            <label>Date of Birth</label>
+            <input type="date" id="dob">
+            <span id="dobError" class="error-message"></span>
+
+            <label>Gender</label>
+            <div class="radio-group">
+                <input type="radio" name="gender" value="Male"> Male
+                <input type="radio" name="gender" value="Female"> Female
+            </div>
+            <span id="genderError" class="error-message"></span>
+
+            <label>Course</label>
+            <select id="course">
+                <option value="">Select Course</option>
+                <option>MCA</option>
+                <option>BCA</option>
+                <option>B.Tech</option>
+                <option>M.Tech</option>
+            </select>
+            <span id="courseError" class="error-message"></span>
+
+            <label>Address</label>
+            <textarea id="address"></textarea>
+            <span id="addressError" class="error-message"></span>
+
+            <button class="submit-btn" type="submit">Save Student</button>
+            <button class="clear-btn" type="button" onclick="clearForm()">Clear Form</button>
+
+        </form>
+
+        <div class="top-controls">
+            <input type="text" id="searchInput" placeholder="Search Name / Email / Mobile" onkeyup="renderTable()">
+
+            <select id="filterCourse" onchange="renderTable()">
+                <option value="">All Courses</option>
+                <option>MCA</option>
+                <option>BCA</option>
+                <option>B.Tech</option>
+                <option>M.Tech</option>
+            </select>
+        </div>
+
+        <div class="counter">
+            Total Records: <span id="recordCount">0</span>
+        </div>
+
+        <div class="table-container">
+
+            <table>
+
+                <thead>
+                    <tr>
+                        <th>S.No</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Mobile</th>
+                        <th>Course</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+
+                <tbody id="studentTable"></tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+    <script src="script4.js"></script>
+
+</body>
+
+</html>

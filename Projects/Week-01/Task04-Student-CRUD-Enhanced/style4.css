@@ -1,0 +1,149 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    background: #fff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+    text-align: center;
+    color: #003366;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    margin-top: 12px;
+    margin-bottom: 5px;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+textarea {
+    resize: none;
+    height: 80px;
+}
+
+.radio-group {
+    margin-top: 5px;
+}
+
+.radio-group input {
+    width: auto;
+}
+
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.submit-btn {
+    background: green;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.clear-btn {
+    background: #666;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.edit-btn {
+    background: orange;
+}
+
+.delete-btn {
+    background: red;
+}
+
+.error {
+    border: 2px solid red !important;
+}
+
+.success {
+    border: 2px solid green !important;
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+}
+
+.top-controls {
+    margin-top: 25px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.top-controls input,
+.top-controls select {
+    flex: 1;
+}
+
+.counter {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #003366;
+}
+
+.table-container {
+    overflow-x: auto;
+    margin-top: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background: #0066ff;
+    color: white;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+#message {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+@media(max-width:600px) {
+    .top-controls {
+        flex-direction: column;
+    }
+}
