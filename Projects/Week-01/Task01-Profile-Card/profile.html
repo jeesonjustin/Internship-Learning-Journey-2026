@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Profile</title>
+</head>
+
+<body style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background-color:#f0f0f0;
+    margin:0;
+    font-family:Arial, sans-serif;">
+
+    <div id="card" style="
+        width:450px;
+        padding:25px;
+        border:2px solid black;
+        border-radius:15px;
+        text-align:center;
+        background-color:white;
+        box-shadow:0px 4px 8px rgba(0,0,0,0.2);">
+
+        <h3 style="color:#555;">
+            Date: <span id="datetime"></span>
+        </h3>
+
+        <h3 style="color:#007bff;">
+            Time: <span id="clock"></span>
+        </h3>
+
+        <img src="profile-photo.png" alt="Profile Picture" style="
+             width:150px;
+             height:150px;
+             border-radius:50%;
+             border:3px solid #007bff;">
+
+        <h2 style="color:#007bff;">
+            Jeeson Justin
+        </h2>
+
+        <p style="font-size:18px;">
+            <b>Qualification:</b> MCA Graduate
+        </p>
+
+        <p style="font-size:18px;">
+            <b>Hobbies:</b> Designing, Drawing, Coding
+        </p>
+
+        <p style="font-size:18px;">
+            <b>Favorite Technology:</b>
+            <span style="color:green;">Angular</span>
+        </p>
+
+        <button onclick="showMessage()" style="
+            padding:10px 15px;
+            margin:8px;
+            border:none;
+            border-radius:5px;
+            background-color:#007bff;
+            color:white;
+            cursor:pointer;">
+            Show Welcome Message
+        </button>
+
+        <button onclick="changeColor()" style="
+            padding:10px 15px;
+            margin:8px;
+            border:none;
+            border-radius:5px;
+            background-color:#2f9046;
+            color:white;
+            cursor:pointer;">
+            Change Background Color
+        </button>
+
+        <br>
+
+        <button onclick="toggleMode()" style="
+            padding:10px 15px;
+            margin-top:10px;
+            border:none;
+            border-radius:5px;
+            background-color:black;
+            color:white;
+            cursor:pointer;">
+            Dark / Light Mode
+        </button>
+
+    </div>
+
+    <script>
+
+        function showMessage() {
+            alert("Welcome to My Profile Page!");
+        }
+
+        function changeColor() {
+            document.getElementById("card").style.backgroundColor = "#d4edda";
+        }
+
+        function toggleMode() {
+
+            let card = document.getElementById("card");
+
+            if (card.style.backgroundColor === "black") {
+
+                card.style.backgroundColor = "white";
+                card.style.color = "black";
+
+            } else {
+
+                card.style.backgroundColor = "black";
+                card.style.color = "white";
+            }
+        }
+
+        document.getElementById("datetime").innerHTML =
+            new Date().toLocaleDateString();
+
+        setInterval(function () {
+
+            document.getElementById("clock").innerHTML =
+                new Date().toLocaleTimeString();
+
+        }, 1000);
+
+    </script>
+
+</body>
+
+</html>
