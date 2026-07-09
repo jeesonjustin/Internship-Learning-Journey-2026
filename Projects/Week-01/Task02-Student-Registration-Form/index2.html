@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Student Registration Form</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            width: 500px;
+            margin: 30px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        h2 {
+            text-align: center;
+            color: #003366;
+            margin-bottom: 25px;
+        }
+
+        label {
+            display: block;
+            margin-top: 15px;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="date"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+
+        textarea {
+            height: 80px;
+            resize: none;
+        }
+
+        input[type="radio"] {
+            margin-right: 5px;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 12px;
+            width: 100%;
+            background-color: #07883a;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #05ad45;
+        }
+
+        .error {
+            border: 2px solid red !important;
+        }
+
+        .success {
+            border: 2px solid green !important;
+        }
+
+        .error-message {
+            color: red;
+            font-size: 12px;
+            margin-top: 3px;
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h2>Student Registration Form</h2>
+
+        <form onsubmit="return validateForm()">
+
+            <label>Full Name:</label>
+            <input type="text" id="name" onblur="validateName()">
+            <span id="nameError" class="error-message"></span>
+
+            <label>Email Address:</label>
+            <input type="email" id="email" onblur="validateEmail()">
+            <span id="emailError" class="error-message"></span>
+
+            <label>Mobile Number:</label>
+            <input type="text" id="mobile" onblur="validateMobile()">
+            <span id="mobileError" class="error-message"></span>
+
+            <label>Date of Birth:</label>
+            <input type="date" id="dob" onblur="validateDOB()">
+            <span id="dobError" class="error-message"></span>
+
+            <label>Gender:</label>
+
+            <input type="radio" name="gender" value="Male" onclick="validateGender()"> Male
+
+            <input type="radio" name="gender" value="Female" onclick="validateGender()"> Female
+
+            <span id="genderError" class="error-message"></span>
+
+            <label>Course:</label>
+
+            <select id="course" onchange="validateCourse()">
+                <option value="">Select Course</option>
+                <option>MCA</option>
+                <option>BCA</option>
+                <option>B.Tech</option>
+                <option>M.Tech</option>
+            </select>
+
+            <span id="courseError" class="error-message"></span>
+
+            <label>Address:</label>
+
+            <textarea id="address" onblur="validateAddress()"></textarea>
+
+            <span id="addressError" class="error-message"></span>
+
+            <button type="submit">Register</button>
+
+        </form>
+
+    </div>
+
+    <script>
+
+        function setError(id, message) {
+
+            document.getElementById(id).classList.add("error");
+            document.getElementById(id).classList.remove("success");
+
+            document.getElementById(id + "Error").innerHTML =
+                message;
+
+            return false;
+        }
+
+        function setSuccess(id) {
+
+            document.getElementById(id).classList.remove("error");
+            document.getElementById(id).classList.add("success");
+
+            document.getElementById(id + "Error").innerHTML = "";
+
+            return true;
+        }
+
+        function validateName() {
+
+            let name =
+                document.getElementById("name").value.trim();
+
+            if (name === "") {
+                return setError(
+                    "name",
+                    "Name is required"
+                );
+            }
+
+            if (name.length < 3) {
+                return setError(
+                    "name",
+                    "Minimum 3 characters required"
+                );
+            }
+
+            return setSuccess("name");
+        }
+
+        function validateEmail() {
+
+            let email =
+                document.getElementById("email").value.trim();
+
+            let emailPattern =
+                /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+            if (email === "") {
+                return setError(
+                    "email",
+                    "Email is required"
+                );
+            }
+
+            if (!emailPattern.test(email)) {
+                return setError(
+                    "email",
+                    "Invalid email format"
+                );
+            }
+
+            return setSuccess("email");
+        }
+
+        function validateMobile() {
+
+            let mobile =
+                document.getElementById("mobile").value.trim();
+
+            let mobilePattern =
+                /^[6-9][0-9]{9}$/;
+
+            if (mobile === "") {
+                return setError(
+                    "mobile",
+                    "Mobile number is required"
+                );
+            }
+
+            if (!mobilePattern.test(mobile)) {
+                return setError(
+                    "mobile",
+                    "Enter valid 10 digit mobile number"
+                );
+            }
+
+            return setSuccess("mobile");
+        }
+
+
+        function validateDOB() {
+
+            let dob =
+                document.getElementById("dob").value;
+
+            if (dob === "") {
+
+                document.getElementById("dob")
+                    .classList.add("error");
+
+                document.getElementById("dob")
+                    .classList.remove("success");
+
+                document.getElementById("dobError")
+                    .innerHTML =
+                    "Please select date of birth";
+
+                return false;
+            }
+
+            let selectedDate = new Date(dob);
+            let today = new Date();
+
+            // Remove time part from today's date
+            today.setHours(0, 0, 0, 0);
+
+            if (selectedDate > today) {
+
+                document.getElementById("dob")
+                    .classList.add("error");
+
+                document.getElementById("dob")
+                    .classList.remove("success");
+
+                document.getElementById("dobError")
+                    .innerHTML =
+                    "Invalid Date of Birth: cannot be a future date";
+
+                return false;
+            }
+
+            document.getElementById("dob")
+                .classList.remove("error");
+
+            document.getElementById("dob")
+                .classList.add("success");
+
+            document.getElementById("dobError")
+                .innerHTML = "";
+
+            return true;
+        }
+
+
+
+        function validateGender() {
+
+            let gender =
+                document.querySelector(
+                    'input[name="gender"]:checked'
+                );
+
+            if (!gender) {
+
+                document.getElementById("genderError")
+                    .innerHTML =
+                    "Please select gender";
+
+                return false;
+            }
+
+            document.getElementById("genderError")
+                .innerHTML = "";
+
+            return true;
+        }
+
+        function validateCourse() {
+
+            let course =
+                document.getElementById("course").value;
+
+            if (course === "") {
+
+                return setError(
+                    "course",
+                    "Please select course"
+                );
+            }
+
+            return setSuccess("course");
+        }
+
+        function validateAddress() {
+
+            let address =
+                document.getElementById("address")
+                    .value.trim();
+
+            if (address === "") {
+
+                return setError(
+                    "address",
+                    "Address is required"
+                );
+            }
+
+            if (address.length < 10) {
+
+                return setError(
+                    "address",
+                    "Address must contain at least 10 characters"
+                );
+            }
+
+            return setSuccess("address");
+        }
+
+        function validateForm() {
+
+            let isValid = true;
+
+            isValid = validateName() && isValid;
+            isValid = validateEmail() && isValid;
+            isValid = validateMobile() && isValid;
+            isValid = validateDOB() && isValid;
+            isValid = validateGender() && isValid;
+            isValid = validateCourse() && isValid;
+            isValid = validateAddress() && isValid;
+
+            if (isValid) {
+
+                alert("Registration Successful!");
+            }
+
+            return isValid;
+        }
+
+    </script>
+
+</body>
+
+</html>
+```
