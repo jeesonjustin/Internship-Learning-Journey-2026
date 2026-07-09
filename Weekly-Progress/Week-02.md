@@ -166,3 +166,9 @@ Successfully completed Week 02 by gaining hands-on experience in SQL, relational
 ### PHP Fundamentals
 
 ![PHP Basics](../Assets/Screenshots/week02-php-basics.png)
+
+---
+
+## Learning Summary
+
+Week 02 marked my transition from frontend development to backend technologies. I learned how relational databases store and manage data using SQL, explored table relationships through joins, and built a strong understanding of PHP fundamentals. These concepts prepared me for developing dynamic database-driven web applications in the following weeks.
