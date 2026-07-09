@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>User Directory</title>
+    <link rel="stylesheet" href="style5.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>USER DIRECTORY</h1>
+
+        <div class="controls">
+
+            <input type="text" id="searchInput" placeholder="Search by Name or Username or email">
+
+            <button onclick="fetchUsers()">
+                Refresh
+            </button>
+            <button id="themeBtn">
+                Dark Mode
+            </button>
+            <button id="viewBtn">
+                Table View
+            </button>
+        </div>
+    </header>
+
+    <p id="message"></p>
+
+    <div id="userContainer"></div>
+
+    <!-- Modal -->
+
+    <div id="modal" class="modal">
+
+        <div class="modal-content">
+
+            <span class="close" onclick="closeModal()">
+                &times;
+            </span>
+
+            <div id="modalBody"></div>
+
+        </div>
+
+    </div>
+
+    <script src="script5.js"></script>
+
+</body>
+
+</html>
