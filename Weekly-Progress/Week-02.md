@@ -151,13 +151,13 @@ Successfully completed Week 02 by gaining hands-on experience in SQL, relational
 
 ## Project Files
 
-The practical tasks completed during Week 02 are organized in the **Projects** directory.
+The practical tasks completed during Week 02 are available below.
 
-| Task | Description | Project |
-|------|-------------|---------|
-| Day 8 | Database Creation & SQL Basics | [Task08_SQL-Basics](../Projects/Week-02/Task08_SQL-Basics/) |
-| Day 9 | SQL Database Operations | [Task09_SQL-Operations](../Projects/Week-02/Task09_SQL-Operations/) |
-| Day 10 | SQL Joins | [Task10_SQL-Joins](../Projects/Week-02/Task10_SQL-Joins/) |
+| Day | Description | File |
+|-----|-------------|------|
+| Day 8 | Database Creation & SQL Basics | [task8.sql](../Projects/Week-02/Task08/task8.sql) |
+| Day 9 | SQL Database Operations | [task09.sql](../Projects/Week-02/Task09/task09.sql) |
+| Day 10 | SQL Joins | [task10.sql](../Projects/Week-02/Task10/task10.sql) |
 
 ---
 
