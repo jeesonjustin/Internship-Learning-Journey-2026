@@ -141,12 +141,13 @@ Successfully completed multiple backend development projects using PHP and MySQL
 
 ## Project Files
 
-The practical projects completed during Week 03 are organized in the **Projects** directory.
+The practical projects completed during **Week 03** are available below.
 
 | Task | Description | Project |
 |------|-------------|---------|
-| Task 11 & 12 | Student Management System | `Projects/Week-03/Task11-12_Student-Management-System/` |
-| Task 13 & 14 | Library Book Issue Management System | `Projects/Week-03/Task13-14_Library-Book-Issue-System/` |
+| Task 11 & 12 | Student Management System | [Open Project](../Projects/Week-03/Task11-12_Student-Management-System/) |
+| Task 13 | Library Book Issue System | [Open Project](../Projects/Week-03/Task13_Library-Book-Issue-System/) |
+| Task 14 | Library Book Issue System Enhancement | [Open Project](../Projects/Week-03/Task14_Library-Book-Issue-System-Enhancement/) |
 
 ---
 
