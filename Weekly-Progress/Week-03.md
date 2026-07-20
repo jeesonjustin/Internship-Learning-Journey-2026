@@ -181,20 +181,19 @@ The practical projects completed during **Week 03** are available below.
 
 ### Student Management System
 
-![Student Management System](../Assets/Screenshots/week03-student-management-system.png)
+![Student Management System](../Assets/Screenshots/Week-03/Student-Management-System/registration.png)
+
+---
 
 ### Library Book Issue System
 
-![Library Management System](../Assets/Screenshots/week03-library-management-system.png)
+![Library Book Issue System](../Assets/Screenshots/Week-03/Library-Book-Issue-System/Landing%20page%20UI.png)
 
-### Dashboard Statistics
+---
 
-![Dashboard](../Assets/Screenshots/week03-dashboard.png)
+### Library Book Issue System Enhancement
 
-### Laravel Basics
-
-![Laravel Basics](../Assets/Screenshots/week03-laravel-basics.png)
-
+![Dashboard](../Assets/Screenshots/Week-03/Library-Book-Issue-System-Enhancement/issued%20book%20advanced-%20statistics.png)
 ---
 
 ## Learning Summary
