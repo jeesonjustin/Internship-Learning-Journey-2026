@@ -43,3 +43,33 @@ The objective of **Task 13** was to develop a Library Book Issue System using **
 - `db.php` – Database Connection
 - `style.css` – Styling
 - `library_db.sql` – Database Export
+
+---
+
+## Screenshots
+
+### Landing Page
+
+![Landing Page](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System/Landing%20page%20UI.png)
+
+---
+
+### Add Book
+
+![Add Book](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System/add%20book.png)
+
+---
+
+### Add Member
+
+![Add Member](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System/add%20member.png)
+
+---
+
+### Issue Book
+
+![Issue Book](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System/issue%20book.png)
+
+### Issued Book
+
+![Issued Book](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System/issued%20book.png)
