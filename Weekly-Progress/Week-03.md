@@ -193,7 +193,7 @@ The practical projects completed during **Week 03** are available below.
 
 ### Library Book Issue System Enhancement
 
-![Dashboard](../Assets/Screenshots/Week-03/Library-Book-Issue-System-Enhancement/issued%20book%20advanced-%20statistics.png)
+![Table Structure](../Assets/Screenshots/Week-03/Library-Book-Issue-System-Enhancement/issued%20book%20advanced-%20statistics%20cards%20edit%20delete%20button%20.png)
 ---
 
 ## Learning Summary
