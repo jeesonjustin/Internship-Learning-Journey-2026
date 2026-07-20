@@ -40,12 +40,13 @@ The notes are organized by technology to make them easy to navigate and revisit 
 
 ---
 
-### Week 03 (Ongoing)
+### Week 03
 
 - PHP
 - PHP & MySQL Integration
 - Database Connectivity
 - CRUD Operations using PHP
+- Laravel Basics
 
 ---
 
