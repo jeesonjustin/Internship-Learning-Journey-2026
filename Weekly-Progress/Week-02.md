@@ -155,9 +155,9 @@ The practical tasks completed during Week 02 are available below.
 
 | Day | Description | File |
 |-----|-------------|------|
-| Day 8 | Database Creation & SQL Basics | [task8.sql](../Projects/Week-02/Task08/task8.sql) |
-| Day 9 | SQL Database Operations | [task09.sql](../Projects/Week-02/Task09/task09.sql) |
-| Day 10 | SQL Joins | [task10.sql](../Projects/Week-02/Task10/task10.sql) |
+| Day 8 | Database Creation & SQL Basics | [Open Task8](../Projects/Week-02/Task08/task8.sql) |
+| Day 9 | SQL Database Operations | [Open Task9](../Projects/Week-02/Task09/task09.sql) |
+| Day 10 | SQL Joins | [Open Task10](../Projects/Week-02/Task10/task10.sql) |
 
 ---
 
