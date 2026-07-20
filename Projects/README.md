@@ -1,14 +1,11 @@
-# Week 03 Projects
+# Internship Projects
 
-This folder contains all practical PHP and MySQL projects completed during Week 03 of my Full Stack Development Internship.
+This folder contains all practical tasks and projects completed throughout my Full Stack Development Internship.
 
-## Tasks
+Projects are organized week-wise and task-wise, allowing easy navigation through my learning journey and hands-on development experience.
 
-- Task 11 – PHP & MySQL Database Connectivity
-- Task 12 – Student Management System (CRUD Operations)
-- Task 13 – Library Book Issue System (Using SQL JOIN)
-- Task 14 – Library Book Issue System Enhancement (Search, Update, Delete & Dashboard Statistics)
+## Weeks Covered
 
-## Additional Learning
-
-- Laravel Framework Basics (Introduction)
+- **Week 01** – HTML, CSS & JavaScript Fundamentals
+- **Week 02** – MySQL Database & SQL Operations
+- **Week 03** – PHP, MySQL CRUD Applications & Laravel Basics
