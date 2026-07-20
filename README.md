@@ -10,13 +10,13 @@
 
 This repository documents my 6-month Full Stack Development Internship journey.
 
-Throughout this internship, I am learning modern frontend and backend technologies while building practical applications, strengthening my programming skills, and documenting my weekly progress through projects, learning notes, and technical documentation.
+Throughout this internship, I am learning modern frontend and backend technologies while building practical applications, strengthening my programming skills, and documenting my progress through weekly reports, learning notes, and real-world projects.
 
 ---
 
 ## Repository Structure
 
-```
+```text
 Internship-Learning-Journey-2026/
 │
 ├── Assets/
@@ -24,23 +24,31 @@ Internship-Learning-Journey-2026/
 │   └── Screenshots/
 │
 ├── Learning-Notes/
+│   ├── HTML-CSS-JS/
+│   ├── MySQL-Database/
+│   ├── PHP/
+│   └── README.md
 │
 ├── Projects/
 │   ├── Week-01/
-│   └── Week-02/
+│   ├── Week-02/
+│   ├── Week-03/
+│   └── README.md
 │
 ├── Weekly-Progress/
 │   ├── Week-01.md
-│   └── Week-02.md
+│   ├── Week-02.md
+│   ├── Week-03.md
+│   └── README.md
 │
 └── README.md
 ```
 
 ---
 
-## Quick Navigation
+# Quick Navigation
 
-### Repository Sections
+## Repository Sections
 
 - 📂 [Projects](./Projects)
 - 📂 [Weekly Progress](./Weekly-Progress)
@@ -49,25 +57,28 @@ Internship-Learning-Journey-2026/
 
 ---
 
-## Weekly Progress
+# Weekly Progress
 
 - 📘 [Week 01 Progress Report](./Weekly-Progress/Week-01.md)
 - 📘 [Week 02 Progress Report](./Weekly-Progress/Week-02.md)
+- 📘 [Week 03 Progress Report](./Weekly-Progress/Week-03.md)
 
 ---
 
-## Projects
+# Projects
 
-### Week 01
+## Week 01
 
 - Task 01 – Profile Card
 - Task 02 – Student Registration Form
 - Task 03 – Student CRUD System
-- Task 04 – Student CRUD Enhanced
+- Task 04 – Student CRUD Enhancement
 - Task 05 – User Directory
 - Task 06 – Weather Dashboard
 
-### Week 02
+---
+
+## Week 02
 
 - Task 08 – SQL Database Basics
 - Task 09 – SQL Database Operations
@@ -75,7 +86,15 @@ Internship-Learning-Journey-2026/
 
 ---
 
-## Learning Notes
+## Week 03
+
+- Task 11 & 12 – Student Management System (PHP + MySQL CRUD)
+- Task 13 – Library Book Issue System
+- Task 14 – Library Book Issue System Enhancement
+
+---
+
+# Learning Notes
 
 - 📖 HTML, CSS & JavaScript
 - 📖 MySQL Database
@@ -83,59 +102,78 @@ Internship-Learning-Journey-2026/
 
 ---
 
-## Technologies Covered
+# Technologies Covered
 
-### Frontend
+## Frontend
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-### Backend
+---
+
+## Backend
 
 - PHP
 - MySQL
 - XAMPP
 - phpMyAdmin
+- MySQL front
 
-### Currently Learning
+---
+
+## Currently Learning
+
+- Laravel 12
+- MVC Architecture
+- Routing
+- Controllers
+- Blade Templating
+- Artisan CLI
+
+---
+
+## Upcoming Technologies
 
 - Angular 20
 - TypeScript
 - Tailwind CSS
+- Angular Signals
 - RxJS
-- Laravel 12
 - REST API Development
+- Laravel Sanctum
+- Stancl Tenancy
+- Laratrust
 
 ---
 
-## Learning Roadmap
+# Learning Roadmap
 
 | Month | Focus Area |
 |---------|------------|
-| Month 1 | HTML, CSS, JavaScript, SQL & PHP Fundamentals |
-| Month 2 | Angular Development |
-| Month 3 | API Integration |
-| Month 4 | Laravel Backend |
+| Month 1 | HTML, CSS, JavaScript, SQL, PHP & MySQL |
+| Month 2 | Laravel Fundamentals |
+| Month 3 | Angular Development |
+| Month 4 | REST API Development |
 | Month 5 | Authentication & Authorization |
 | Month 6 | Full Stack Project Development |
 
 ---
 
-## Internship Progress
+# Internship Progress
 
 | Week | Status | Topics Covered |
 |------|---------|----------------|
 | Week 01 | ✅ Completed | HTML, CSS, JavaScript, CRUD Operations, Local Storage, REST APIs |
-| Week 02 | ✅ Completed | DBMS, RDBMS, SQL, MySQL, SQL Queries, Joins, PHP Fundamentals |
-| Week 03 | 🔄 In Progress | PHP + MySQL Database Connectivity & CRUD |
-| Week 04 | ⏳ Upcoming | Laravel Fundamentals |
+| Week 02 | ✅ Completed | DBMS, RDBMS, SQL, MySQL, SQL Queries, JOIN Operations, PHP Fundamentals |
+| Week 03 | ✅ Completed | PHP, MySQL, CRUD Applications, SQL JOIN, Student Management System, Library Book Issue System |
+| Week 04 | 🔄 In Progress | Laravel Framework Basics |
 
 ---
 
-## Skills Gained
+# Skills Gained
 
-### Frontend Development
+## Frontend Development
 
 - HTML5
 - CSS3
@@ -146,42 +184,76 @@ Internship-Learning-Journey-2026/
 - Local Storage
 - REST API Integration
 
-### Database
+---
+
+## Database
 
 - DBMS & RDBMS
 - SQL
 - MySQL
+- Database Design
 - CRUD Operations
-- Primary & Foreign Keys
-- SQL JOINs
+- Primary Keys
+- Foreign Keys
+- SQL JOIN Operations
 - Aggregate Functions
 
-### Backend Fundamentals
+---
 
-- PHP Basics
-- Variables & Data Types
-- Operators
-- Control Statements
-- Loops
-- Functions
-- Arrays
-- Superglobals
+## Backend Development
+
+- PHP Syntax & Fundamentals
+- Form Handling
+- GET & POST Methods
+- PHP & MySQL Integration
+- CRUD Operations
+- Dynamic Web Applications
+- Relational Database Management
 
 ---
 
-## Goals
+## Currently Exploring
 
-- Build strong frontend development skills.
-- Strengthen database design and SQL knowledge.
-- Master PHP fundamentals before moving to Laravel.
-- Learn Angular ecosystem.
-- Develop REST APIs using Laravel.
-- Build real-world Full Stack applications.
-- Become industry-ready as a Full Stack Developer.
+- Laravel Framework
+- MVC Architecture
+- Routing
+- Controllers
+- Blade Templates
+- Artisan CLI
 
 ---
 
-## Connect With Me
+# Repository Highlights
+
+✔ Weekly learning reports
+
+✔ Practical internship projects
+
+✔ Learning notes by technology
+
+✔ Database export files
+
+✔ Project screenshots
+
+✔ Well-structured folder organization
+
+✔ Beginner-friendly documentation
+
+---
+
+# Goals
+
+- Strengthen frontend development skills.
+- Master PHP and MySQL for backend development.
+- Learn Laravel framework for modern web applications.
+- Build scalable Full Stack projects.
+- Learn REST API development.
+- Gain industry-level development experience.
+- Become a confident Full Stack Developer.
+
+---
+
+# Connect With Me
 
 ### LinkedIn
 
