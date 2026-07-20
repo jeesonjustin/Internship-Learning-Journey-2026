@@ -43,3 +43,23 @@ The objective of **Task 14** was to enhance the existing Library Book Issue Syst
 - `db.php` – Database Connection
 - `style.css` – Styling
 - `library_db.sql` – Database Export
+
+---
+
+## Screenshots
+
+### Search Functionality
+
+![Search](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System-Enhancement/issued%20book-search.png)
+
+---
+
+### Dashboard Statistics
+
+![Statistics](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System-Enhancement/issued%20book%20advanced-%20statistics.png)
+
+---
+
+### Edit Issued Book
+
+![Edit](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System-Enhancement/edit%20issued%20book.png)
