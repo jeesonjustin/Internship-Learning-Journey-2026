@@ -123,24 +123,24 @@ Successfully completed all Week 01 tasks and gained practical experience in fron
 
 ### Day 1 – Profile Card Application
 
-![Day 1](../Assets/Screenshots/week01-day01-profile-card.png)
+![Day 1](../Assets/Screenshots/Week-01/week01-day01-profile-card.png)
 
 ### Day 2 – Student Registration Form
 
-![Day 2](../Assets/Screenshots/week01-day02-registration-form.png)
+![Day 2](../Assets/Screenshots/Week-01/week01-day02-registration-form.png)
 
 ### Day 3 – CRUD System
 
-![Day 3](../Assets/Screenshots/week01-day03-crud-system.png)
+![Day 3](../Assets/Screenshots/Week-01/week01-day03-crud-system.png)
 
 ### Day 4 – CRUD Enhancement
 
-![Day 4](../Assets/Screenshots/week01-day04-enhancement.png)
+![Day 4](../Assets/Screenshots/Week-01/week01-day04-enhancement.png)
 
 ### Day 5 – User Directory
 
-![Day 5](../Assets/Screenshots/week01-day05-user-directory.png)
+![Day 5](../Assets/Screenshots/Week-01/week01-day05-user-directory.png)
 
 ### Day 6 – Weather Dashboard
 
-![Day 6](../Assets/Screenshots/week01-day06-weather-dashboard.png)
+![Day 6](../Assets/Screenshots/Week-01/week01-day06-weather-dashboard.png)
