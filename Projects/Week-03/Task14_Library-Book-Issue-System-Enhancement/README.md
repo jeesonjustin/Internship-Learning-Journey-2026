@@ -56,7 +56,7 @@ The objective of **Task 14** was to enhance the existing Library Book Issue Syst
 
 ### Dashboard Statistics
 
-![Statistics](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System-Enhancement/issued%20book%20advanced-%20statistics.png)
+![Statistics](../../../Assets/Screenshots/Week-03/Library-Book-Issue-System-Enhancement/issued%20book%20advanced-%20statistics%20cards%20edit%20delete%20button%20.png)
 
 ---
 
