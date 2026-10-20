@@ -30,12 +30,6 @@ Laravel practice exercises and supporting notes are documented in the following 
 * [Week 04 Practice Documentation](../Projects/Week-04/README.md)
 * [Laravel Basics Learning Notes](../Learning-Notes/Laravel/Laravel-Basics.md)
 
-## Screenshots
-
-Screenshots of the actual Laravel practice work can be added to:
-
-`Assets/Screenshots/Week-04/`
-
 ## Next Steps
 
 * Continue strengthening Laravel fundamentals.
