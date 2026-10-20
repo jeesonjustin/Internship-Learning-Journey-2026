@@ -27,12 +27,6 @@ The focus is on understanding Laravel's application structure and the core conce
 | MVC               | Learn how models, views, and controllers work together |
 | Artisan           | Become familiar with Laravel command-line tools        |
 
-## Screenshots
-
-Add screenshots of your actual practice work to:
-
-`Assets/Screenshots/Week-04/`
-
 ## Learning Notes
 
 For detailed explanations and revision notes, see:
