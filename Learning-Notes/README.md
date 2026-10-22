@@ -63,6 +63,15 @@ The notes are organized by technology to make them easy to navigate, revise, and
 
 ---
 
+### Weeks 05–06
+
+- Laravel Routing in Practice
+- Controller-Based Request Handling
+- Blade View Implementation
+- MVC Application Flow
+- Profile Page Development
+
+
 ## Folder Structure
 
 ```text
