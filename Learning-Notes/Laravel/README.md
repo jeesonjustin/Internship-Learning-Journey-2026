@@ -101,5 +101,27 @@ The topics covered in these notes provide an introduction to Laravel's structure
 
 ---
 
+## Task 15 — Applying Laravel Fundamentals
+
+### Overview
+
+Task 15 applies the Laravel fundamentals explored in Week 04 through the development of a Profile Page.
+
+### Concepts Applied
+
+* **Routing:** Defining the URL used to access the page.
+* **Controllers:** Handling the request through a controller.
+* **Blade Templating:** Rendering the profile page interface.
+* **MVC Architecture:** Separating request handling from presentation.
+
+### Related Project
+
+[Task 15 — Laravel Profile Page](../../Projects/Week-05,06/Task15-Profile-Page/README.md)
+
+### Reflection
+
+This task helps connect the theoretical concepts of Laravel routing, controllers, and Blade views with practical application development.
+
+*Update these notes as the implementation progresses and additional concepts are practised.*
 *Add further explanations and examples as these concepts are practised during the internship.*
 
