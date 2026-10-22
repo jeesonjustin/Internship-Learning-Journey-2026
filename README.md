@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="Assets/Banner/internship-banner3.png" alt="Internship Banner">
 </p>
 
@@ -24,28 +24,22 @@ Internship-Learning-Journey-2026/
 ├── Assets/
 │   ├── Banner/
 │   └── Screenshots/
-│       ├── Week-01/
-│       ├── Week-02/
-│       ├── Week-03/
-│       └── Week-04/
 │
 ├── Learning-Notes/
 │   ├── HTML-CSS-JS/
 │   ├── MySQL-Database/
 │   ├── PHP/
 │   ├── Laravel/
-│   │   └── Laravel-Basics.md
 │   └── README.md
+│
 ├── Projects/
 │   ├── Week-01/
 │   ├── Week-02/
 │   ├── Week-03/
 │   ├── Week-04/
 │   ├── Week-05,06/
-│   │   ├── README.md
-│   │   └── Task15-Profile-Page/
-│   │       └── README.md
 │   └── README.md
+│
 ├── Weekly-Progress/
 │   ├── Week-01.md
 │   ├── Week-02.md
@@ -54,6 +48,7 @@ Internship-Learning-Journey-2026/
 │   ├── Week-05.md
 │   ├── Week-06.md
 │   └── README.md
+│
 └── README.md
 ```
 
@@ -78,6 +73,8 @@ Internship-Learning-Journey-2026/
 * 📘 [Week 04 Progress Report](./Weekly-Progress/Week-04.md)
 * 📘 [Week 05 Progress Report](./Weekly-Progress/Week-05.md)
 * 📘 [Week 06 Progress Report](./Weekly-Progress/Week-06.md)
+
+*Additional weekly reports will be linked here as they are added to the repository.*
 
 ---
 
@@ -111,13 +108,38 @@ Internship-Learning-Journey-2026/
 * MVC architecture
 * Routing and controllers
 * Introduction to Blade templating
-* Basic Laravel practice and exploration
+* Artisan CLI fundamentals
 
-## Weeks 05–06
+## Weeks 05–06 — Laravel Task 15
 
-* Task 15 — Laravel Profile Page - Focus: Routing, Controllers, Blade Templating and MVC
+**Task 15 – Laravel Profile Page**
 
-*The Week 04 section documents Laravel fundamentals and practice exercises. The following Laravel tasks will be documented in their respective progress reports as they are completed.*
+* Profile information and interface
+* Routing and controllers
+* Blade templating
+* Application structure and MVC concepts
+
+📂 [Explore Weeks 05–06](./Projects/Week-05,06/README.md)
+
+## Weeks 07–09 — Laravel Task 16
+
+**Task 16 – Laravel Development**
+
+* Practical Laravel application development
+* Application structure and organization
+* Implementation of task requirements
+* Testing and refinement
+
+## Weeks 10–13 — Laravel Task 17
+
+**Task 17 – Student Course & Fee Management System**
+
+* Student, course, and fee management
+* CRUD operations
+* Student and course relationships
+* Fee payment records
+* Input validation and search
+* Dashboard statistics
 
 ---
 
@@ -145,22 +167,34 @@ Internship-Learning-Journey-2026/
 * XAMPP
 * phpMyAdmin
 
-## Currently Learning
+## Laravel Development
 
 * Laravel 12
 * MVC Architecture
 * Routing and Controllers
 * Blade Templating
 * Artisan CLI
-* Laravel Application Structure
+* CRUD Application Development
+* Database Relationships
+* Form Validation
 
-## Upcoming Technologies
+## Next Learning Phase — Angular
 
 * Angular 20
 * TypeScript
+* Angular Components and Templates
+* Data Binding and Directives
+* Services and Dependency Injection
+* Angular Routing
+* Forms and Validation
+* HTTP Client and REST API Integration
+* RxJS and Angular Signals
 * Tailwind CSS
-* Angular Signals
-* RxJS
+
+*These are planned learning topics for the upcoming Angular phase.*
+
+## Upcoming Technologies
+
 * REST API Development
 * Laravel Sanctum
 * Stancl Tenancy
@@ -170,27 +204,33 @@ Internship-Learning-Journey-2026/
 
 # Learning Roadmap
 
-| Phase       | Planned Focus                                             |
-| ----------- | --------------------------------------------------------- |
-| Weeks 01–04 | Frontend fundamentals, SQL, PHP, MySQL and Laravel basics |
-| Weeks 05–13 | Laravel development — Tasks 15, 16 and 17                 |
-| Weeks 14–23 | Angular fundamentals and assigned Angular tasks           |
-| Weeks 24–26 | Full Stack website development and integration            |
+| Phase       | Planned Focus                                     | Status      |
+| ----------- | ------------------------------------------------- | ----------- |
+| Weeks 01–03 | Frontend fundamentals, SQL, PHP and MySQL         | ✅ Completed |
+| Week 04     | Laravel fundamentals                              | ✅ Completed |
+| Weeks 05–06 | Laravel Task 15 — Profile Page                    | ✅ Completed |
+| Weeks 07–09 | Laravel Task 16                                   | ✅ Completed |
+| Weeks 10–13 | Laravel Task 17 — Student Course & Fee Management | ✅ Completed |
+| Weeks 14–23 | Angular fundamentals and assigned tasks           | 🔜 Upcoming |
+| Weeks 24–26 | Full Stack website development and integration    | 📌 Planned  |
 
-*This roadmap represents the planned learning sequence. Weekly reports and project documentation will reflect actual progress.*
+*The roadmap represents the planned learning sequence. Weekly reports and project documentation reflect the corresponding work.*
 
 ---
 
 # Internship Progress
 
-| Week    | Status         | Topics Covered                                                                                   |
-| ------- | -------------- | ------------------------------------------------------------------------------------------------ |
-| Week 01 | ✅ Completed    | HTML, CSS, JavaScript, CRUD Operations, Local Storage and REST API Integration                   |
-| Week 02 | ✅ Completed    | DBMS, RDBMS, SQL, MySQL, SQL Queries, JOIN Operations and PHP Fundamentals                       |
-| Week 03 | ✅ Completed    | PHP, MySQL, CRUD Applications, SQL JOIN, Student Management System and Library Book Issue System |
-| Week 04 | ✅ Completed | Laravel Framework Basics, MVC, Routing, Controllers and Blade Introduction                       |
-| Week 05 | ✅ Completed | Laravel Task 15 — Profile Page |
-| Week 06 | ✅ Completed | Task 15 Refinement, Testing and Documentation |
+| Week        | Status      | Topics Covered                                                                                   |
+| ----------- | ----------- | ------------------------------------------------------------------------------------------------ |
+| Week 01     | ✅ Completed | HTML, CSS, JavaScript, CRUD Operations, Local Storage and REST API Integration                   |
+| Week 02     | ✅ Completed | DBMS, RDBMS, SQL, MySQL, SQL Queries, JOIN Operations and PHP Fundamentals                       |
+| Week 03     | ✅ Completed | PHP, MySQL, CRUD Applications, SQL JOIN, Student Management System and Library Book Issue System |
+| Week 04     | ✅ Completed | Laravel Framework Basics, MVC, Routing, Controllers and Blade Introduction                       |
+| Weeks 05–06 | ✅ Completed | Laravel Task 15 — Profile Page                                                                   |
+| Weeks 07–09 | ✅ Completed | Laravel Task 16                                                                                  |
+| Weeks 10–13 | ✅ Completed | Laravel Task 17 — Student Course & Fee Management System                                         |
+| Weeks 14–23 | 🔜 Upcoming | Angular Learning and Assigned Tasks                                                              |
+| Weeks 24–26 | 📌 Planned  | Full Stack Website Development                                                                   |
 
 ---
 
@@ -227,14 +267,17 @@ Internship-Learning-Journey-2026/
 * Dynamic Web Applications
 * Relational Database Management
 
-## Currently Exploring
+## Laravel Development
 
-* Laravel Framework
+* Laravel Project Structure
 * MVC Architecture
 * Routing and Controllers
 * Blade Templates
 * Artisan CLI
-* Laravel Project Structure
+* CRUD Application Development
+* Database Relationships
+* Validation and Search
+* Laravel-Based Application Development
 
 ---
 
