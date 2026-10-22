@@ -10,3 +10,5 @@ Projects are organized week-wise and task-wise, allowing easy navigation through
 - **Week 02** – MySQL Database & SQL Operations
 - **Week 03** – PHP, MySQL CRUD Applications & Laravel Basics
 - **Week 04** – Laravel Basics
+- **Weeks 05–06** – Laravel Development
+
