@@ -36,22 +36,24 @@ Internship-Learning-Journey-2026/
 │   ├── Laravel/
 │   │   └── Laravel-Basics.md
 │   └── README.md
-│
 ├── Projects/
 │   ├── Week-01/
 │   ├── Week-02/
 │   ├── Week-03/
 │   ├── Week-04/
-│   │   └── README.md
+│   ├── Week-05,06/
+│   │   ├── README.md
+│   │   └── Task15-Profile-Page/
+│   │       └── README.md
 │   └── README.md
-│
 ├── Weekly-Progress/
 │   ├── Week-01.md
 │   ├── Week-02.md
 │   ├── Week-03.md
 │   ├── Week-04.md
+│   ├── Week-05.md
+│   ├── Week-06.md
 │   └── README.md
-│
 └── README.md
 ```
 
@@ -74,6 +76,8 @@ Internship-Learning-Journey-2026/
 * 📘 [Week 02 Progress Report](./Weekly-Progress/Week-02.md)
 * 📘 [Week 03 Progress Report](./Weekly-Progress/Week-03.md)
 * 📘 [Week 04 Progress Report](./Weekly-Progress/Week-04.md)
+* 📘 [Week 05 Progress Report](./Weekly-Progress/Week-05.md)
+* 📘 [Week 06 Progress Report](./Weekly-Progress/Week-06.md)
 
 ---
 
@@ -109,7 +113,9 @@ Internship-Learning-Journey-2026/
 * Introduction to Blade templating
 * Basic Laravel practice and exploration
 
-📂 [Explore Week 04 Documentation](./Projects/Week-04/README.md)
+## Weeks 05–06
+
+* Task 15 — Laravel Profile Page - Focus: Routing, Controllers, Blade Templating and MVC
 
 *The Week 04 section documents Laravel fundamentals and practice exercises. The following Laravel tasks will be documented in their respective progress reports as they are completed.*
 
@@ -182,7 +188,9 @@ Internship-Learning-Journey-2026/
 | Week 01 | ✅ Completed    | HTML, CSS, JavaScript, CRUD Operations, Local Storage and REST API Integration                   |
 | Week 02 | ✅ Completed    | DBMS, RDBMS, SQL, MySQL, SQL Queries, JOIN Operations and PHP Fundamentals                       |
 | Week 03 | ✅ Completed    | PHP, MySQL, CRUD Applications, SQL JOIN, Student Management System and Library Book Issue System |
-| Week 04 | 🔄 In Progress | Laravel Framework Basics, MVC, Routing, Controllers and Blade Introduction                       |
+| Week 04 | ✅ Completed | Laravel Framework Basics, MVC, Routing, Controllers and Blade Introduction                       |
+| Week 05 | ✅ Completed | Laravel Task 15 — Profile Page |
+| Week 06 | ✅ Completed | Task 15 Refinement, Testing and Documentation |
 
 ---
 
