@@ -31,7 +31,7 @@ The focus is on understanding Laravel's application structure and the core conce
 
 For detailed explanations and revision notes, see:
 
-[Laravel Basics](../../Learning-Notes/Laravel/Laravel-Basics.md)
+[Laravel Basics](../../Learning-Notes/Laravel/README.md)
 
 ## Learning Outcome
 
