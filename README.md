@@ -24,6 +24,12 @@ Internship-Learning-Journey-2026/
 ├── Assets/
 │   ├── Banner/
 │   └── Screenshots/
+│       ├── Week-01/
+│       ├── Week-02/
+│       ├── Week-03/
+│       ├── Week-04/
+│       ├── Week-05,06/
+│       └── Week-07,08,09/
 │
 ├── Learning-Notes/
 │   ├── HTML-CSS-JS/
@@ -38,6 +44,7 @@ Internship-Learning-Journey-2026/
 │   ├── Week-03/
 │   ├── Week-04/
 │   ├── Week-05,06/
+│   ├── Week-07,08,09/
 │   └── README.md
 │
 ├── Weekly-Progress/
@@ -47,6 +54,9 @@ Internship-Learning-Journey-2026/
 │   ├── Week-04.md
 │   ├── Week-05.md
 │   ├── Week-06.md
+│   ├── Week-07.md
+│   ├── Week-08.md
+│   ├── Week-09.md
 │   └── README.md
 │
 └── README.md
@@ -73,8 +83,9 @@ Internship-Learning-Journey-2026/
 * 📘 [Week 04 Progress Report](./Weekly-Progress/Week-04.md)
 * 📘 [Week 05 Progress Report](./Weekly-Progress/Week-05.md)
 * 📘 [Week 06 Progress Report](./Weekly-Progress/Week-06.md)
-
-*Additional weekly reports will be linked here as they are added to the repository.*
+* 📘 [Week 07 Progress Report](./Weekly-Progress/Week-07.md)
+* 📘 [Week 08 Progress Report](./Weekly-Progress/Week-08.md)
+* 📘 [Week 09 Progress Report](./Weekly-Progress/Week-09.md)
 
 ---
 
@@ -123,12 +134,16 @@ Internship-Learning-Journey-2026/
 
 ## Weeks 07–09 — Laravel Task 16
 
-**Task 16 – Laravel Development**
+**Task 16 – Student Registration CRUD System**
 
-* Practical Laravel application development
-* Application structure and organization
-* Implementation of task requirements
-* Testing and refinement
+* Student registration form
+* Student list and record display
+* Editing student details
+* Laravel routing and controllers
+* Blade views
+* CRUD application workflow
+
+📂 [Explore Task 16 — Student Registration CRUD](./Projects/Week-07,08,09/Task16-Student-Registration-CRUD/README.md)
 
 ## Weeks 10–13 — Laravel Task 17
 
@@ -141,6 +156,8 @@ Internship-Learning-Journey-2026/
 * Input validation and search
 * Dashboard statistics
 
+*Task-specific details should remain consistent with the actual implementation.*
+
 ---
 
 # Learning Notes
@@ -149,6 +166,7 @@ Internship-Learning-Journey-2026/
 * 📖 [MySQL Database](./Learning-Notes/MySQL-Database/)
 * 📖 [PHP Fundamentals](./Learning-Notes/PHP/)
 * 📖 [Laravel Fundamentals](./Learning-Notes/Laravel/Laravel-Basics.md)
+* 📖 [Laravel Task 16 Learning Notes](./Learning-Notes/Laravel/Laravel-Task16.md)
 
 ---
 
@@ -209,7 +227,7 @@ Internship-Learning-Journey-2026/
 | Weeks 01–03 | Frontend fundamentals, SQL, PHP and MySQL         | ✅ Completed |
 | Week 04     | Laravel fundamentals                              | ✅ Completed |
 | Weeks 05–06 | Laravel Task 15 — Profile Page                    | ✅ Completed |
-| Weeks 07–09 | Laravel Task 16                                   | ✅ Completed |
+| Weeks 07–09 | Laravel Task 16 — Student Registration CRUD       | ✅ Completed |
 | Weeks 10–13 | Laravel Task 17 — Student Course & Fee Management | ✅ Completed |
 | Weeks 14–23 | Angular fundamentals and assigned tasks           | 🔜 Upcoming |
 | Weeks 24–26 | Full Stack website development and integration    | 📌 Planned  |
@@ -227,7 +245,7 @@ Internship-Learning-Journey-2026/
 | Week 03     | ✅ Completed | PHP, MySQL, CRUD Applications, SQL JOIN, Student Management System and Library Book Issue System |
 | Week 04     | ✅ Completed | Laravel Framework Basics, MVC, Routing, Controllers and Blade Introduction                       |
 | Weeks 05–06 | ✅ Completed | Laravel Task 15 — Profile Page                                                                   |
-| Weeks 07–09 | ✅ Completed | Laravel Task 16                                                                                  |
+| Weeks 07–09 | ✅ Completed | Laravel Task 16 — Student Registration CRUD System                                               |
 | Weeks 10–13 | ✅ Completed | Laravel Task 17 — Student Course & Fee Management System                                         |
 | Weeks 14–23 | 🔜 Upcoming | Angular Learning and Assigned Tasks                                                              |
 | Weeks 24–26 | 📌 Planned  | Full Stack Website Development                                                                   |
