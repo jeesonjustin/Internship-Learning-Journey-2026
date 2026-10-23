@@ -44,7 +44,18 @@ Describe the Laravel concepts used while completing the task, including the rele
 
 ## Screenshots
 
-Add screenshots of the actual application and its important features here.
+### 1. Student Registration Form
+
+![Laravel Student Registration Form](../../../Assets/Screenshots/Week-07,08,09/Student%20Registration/Laravel%20task2%20student%20reg-form.png)
+
+### 2. Student List
+
+![Laravel Student List](../../../Assets/Screenshots/Week-07,08,09/Student%20Registration/Laravel%20task2%20students%20list.png)
+
+### 3. Edit Student Details
+
+![Laravel Edit Student](../../../Assets/Screenshots/Week-07,08,09/Student%20Registration/Laravel%20task2%20edit%20student.png)
+
 
 ## Testing
 
