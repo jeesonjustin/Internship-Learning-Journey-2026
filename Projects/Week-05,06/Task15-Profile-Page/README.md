@@ -61,9 +61,10 @@ Provides the template used to render the profile page.
 
 Demonstrates the separation of request handling and presentation.
 
-## Screenshots
+### Screenshots
+### Laravel Profile Page
 
-Screenshots of the implemented profile page can be added here when available.
+![Laravel Profile Page](../../../Assets/Screenshots/Week-05,06/Profile-Page/Laravel%20task1.png)
 
 ## Learning Outcomes
 
