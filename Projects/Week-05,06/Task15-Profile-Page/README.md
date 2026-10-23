@@ -14,6 +14,10 @@ The task focuses on applying Laravel fundamentals, including routing, controller
 * Organize Laravel code into separate files.
 * Strengthen my understanding of Laravel's MVC architecture.
 
+## Task Requirements
+
+Add the actual requirements provided for Task 16 here.
+
 ## Profile Fields
 
 The profile page is designed around the following information:
