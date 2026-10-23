@@ -14,7 +14,7 @@ Week 07 marks the beginning of Task 16 in my Full Stack Development Internship. 
 
 ## Project
 
-[Task 16 — Project Documentation](../Projects/Week-07,08,09/Task16/README.md)
+[Task 16 — Project Documentation](../Projects/Week-07,08,09/Task16-Student-Registration-CRUD/README.md)
 
 ## Learning Outcomes
 
