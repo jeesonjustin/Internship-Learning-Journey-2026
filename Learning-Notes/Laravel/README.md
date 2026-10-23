@@ -122,6 +122,48 @@ Task 15 applies the Laravel fundamentals explored in Week 04 through the develop
 
 This task helps connect the theoretical concepts of Laravel routing, controllers, and Blade views with practical application development.
 
+# Laravel Task 16 — Learning Notes
+
+## Overview
+
+These notes document the Laravel concepts explored while working on Task 16 during Weeks 07–09 of my Full Stack Development Internship.
+
+## Task Requirements
+
+Add a summary of the assigned task requirements and the intended outcome.
+
+## Concepts Applied
+
+Document the concepts used in the implementation, such as:
+
+* Routing and controllers
+* Blade templates
+* Models and database interactions, if applicable
+* Form handling and validation, if applicable
+* Application logic and code organization
+* Testing and debugging
+
+## Implementation Notes
+
+Record important implementation decisions, code patterns, and solutions to problems encountered while working on the task.
+
+## Challenges and Solutions
+
+Document any issues you encountered and how you resolved them.
+
+## Key Takeaways
+
+Summarize the new concepts and skills gained from completing Task 16.
+
+## Related Project
+
+[Task 16 — Project Documentation](../../Projects/Week-07,08,09/Task16/README.md)
+
+---
+
+*Update these notes as the implementation progresses and record only the concepts actually practised.*
+
+
 *Update these notes as the implementation progresses and additional concepts are practised.*
 *Add further explanations and examples as these concepts are practised during the internship.*
 
