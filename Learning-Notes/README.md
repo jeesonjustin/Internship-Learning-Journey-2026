@@ -71,21 +71,15 @@ The notes are organized by technology to make them easy to navigate, revise, and
 - MVC Application Flow
 - Profile Page Development
 
-
-## Folder Structure
-
-```text
-Learning-Notes/
-│
-├── HTML-CSS-JS/
-├── MySQL-Database/
-├── PHP/
-├── Laravel/
-│   └── Laravel-Basics.md
-└── README.md
-```
-
 ---
+
+### Weeks 07–09 — Laravel Task 16
+
+- Practical Laravel development
+- Task-specific implementation
+- Testing and debugging
+- Concepts learned during development
+
 
 ## Learning Notes by Technology
 
