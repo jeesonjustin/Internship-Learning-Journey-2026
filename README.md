@@ -165,8 +165,8 @@ Internship-Learning-Journey-2026/
 * 📖 [HTML, CSS & JavaScript](./Learning-Notes/HTML-CSS-JS/)
 * 📖 [MySQL Database](./Learning-Notes/MySQL-Database/)
 * 📖 [PHP Fundamentals](./Learning-Notes/PHP/)
-* 📖 [Laravel Fundamentals](./Learning-Notes/Laravel/Laravel-Basics.md)
-* 📖 [Laravel Task 16 Learning Notes](./Learning-Notes/Laravel/Laravel-Task16.md)
+* 📖 [Laravel Fundamentals](./Learning-Notes/Laravel/README.md)
+* 📖 [Laravel Task 16 Learning Notes](./Learning-Notes/Laravel/Task16-Laravel-task2-notes.txt)
 
 ---
 
