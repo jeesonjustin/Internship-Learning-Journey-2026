@@ -155,6 +155,10 @@ Summarize the new concepts and skills gained from completing Task 16.
 
 [Task 16 — Project Documentation](../../Projects/Week-07,08,09/Task16/README.md)
 
+### Learning Notes - (Add-On)
+
+[Task 15 — Laravel Profile Page](../../Learning-Notes/Laravel/Task16-Laravel-task2-notes.txt)
+
 ---
 
 *Update these notes as the implementation progresses and record only the concepts actually practised.*
