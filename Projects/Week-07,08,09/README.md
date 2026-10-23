@@ -4,7 +4,7 @@
 
 These weeks focus on Task 16 of my Full Stack Development Internship. This stage continues my Laravel learning journey after the Profile Page task completed during Weeks 05–06.
 
-## Task 16
+## Task 16 — Student Registration & CRUD Operations
 
 **Laravel Development — Task 16**
 
