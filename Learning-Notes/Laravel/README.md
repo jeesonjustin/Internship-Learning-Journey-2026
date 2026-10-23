@@ -157,7 +157,7 @@ Summarize the new concepts and skills gained from completing Task 16.
 
 ### Learning Notes - (Add-On)
 
-[Task 15 — Laravel Profile Page](../../Learning-Notes/Laravel/Task16-Laravel-task2-notes.txt)
+[Task 16 — Laravel Learning Notes](../../Learning-Notes/Laravel/Task16-Laravel-task2-notes.txt)
 
 ---
 
