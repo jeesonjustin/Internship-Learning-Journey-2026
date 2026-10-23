@@ -14,7 +14,7 @@ Week 08 continues Task 16, with a focus on progressing the implementation and ap
 
 ## Project
 
-[Task 16 — Project Documentation](../Projects/Week-07,08,09/Task16/README.md)
+[Task 16 — Project Documentation](../Projects/Week-07,08,09/Task16-Student-Registration-CRUD/README.md)
 
 ## Learning Outcomes
 
