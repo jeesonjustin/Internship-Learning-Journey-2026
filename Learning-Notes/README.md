@@ -73,7 +73,7 @@ The notes are organized by technology to make them easy to navigate, revise, and
 
 ---
 
-### Weeks 07–09 — Laravel Task 16
+### Weeks 07–09
 
 - Practical Laravel development
 - Task-specific implementation
