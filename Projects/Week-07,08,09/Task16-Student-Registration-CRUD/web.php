@@ -1,21 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\StudentRegistrationController;
-
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
-*/
-
-
 /*
 |--------------------------------------------------------------------------
 | Task-16
@@ -34,6 +20,3 @@ Route::get('/student-registrations/{id}/edit', [StudentRegistrationController::c
 Route::put('/student-registrations/{id}', [StudentRegistrationController::class, 'update'])->name('student-registrations.update');
 Route::delete('/student-registrations/{id}', [StudentRegistrationController::class, 'destroy'])->name('student-registrations.destroy');
 
-
-Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
-Route::view('/task17-layout-test', 'layout_test_t17');
