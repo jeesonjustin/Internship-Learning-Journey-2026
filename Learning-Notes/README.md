@@ -89,7 +89,7 @@ The notes are organized by technology to make them easy to navigate, revise, and
 | HTML, CSS & JavaScript | [HTML-CSS-JS](./HTML-CSS-JS/)                 |
 | MySQL Database         | [MySQL-Database](./MySQL-Database/)           |
 | PHP Fundamentals       | [PHP](./PHP/)                                 |
-| Laravel Fundamentals   | [Laravel Basics](./Laravel/Laravel-Basics.md) |
+| Laravel Fundamentals   | [Laravel Basics](./Laravel/README.md) |
 
 ---
 
