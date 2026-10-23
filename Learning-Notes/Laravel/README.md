@@ -153,7 +153,7 @@ Summarize the new concepts and skills gained from completing Task 16.
 
 ### Related Project
 
-[Task 16 — Project Documentation](../../Projects/Week-07,08,09/Task16-Student-Registration-CRUD/README.md)
+[Task 16 — Student Registration & CRUD Operations](../../Projects/Week-07,08,09/Task16-Student-Registration-CRUD/README.md)
 
 ### Learning Notes - (Add-On)
 
