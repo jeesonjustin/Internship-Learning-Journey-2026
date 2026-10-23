@@ -14,7 +14,7 @@ Week 09 focuses on continuing and, where applicable, completing Task 16. This st
 
 ## Project
 
-[Task 16 — Project Documentation](../Projects/Week-07,08,09/Task16/README.md)
+[Task 16 — Project Documentation](../Projects/Week-07,08,09/Task16-Student-Registration-CRUD/README.md)
 
 ## Learning Outcomes
 
