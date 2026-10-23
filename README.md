@@ -130,8 +130,6 @@ Internship-Learning-Journey-2026/
 * Blade templating
 * Application structure and MVC concepts
 
-📂 [Explore Weeks 05–06](./Projects/Week-05,06/README.md)
-
 ## Weeks 07–09 — Laravel Task 16
 
 **Task 16 – Student Registration CRUD System**
@@ -142,8 +140,6 @@ Internship-Learning-Journey-2026/
 * Laravel routing and controllers
 * Blade views
 * CRUD application workflow
-
-📂 [Explore Task 16 — Student Registration CRUD](./Projects/Week-07,08,09/Task16-Student-Registration-CRUD/README.md)
 
 ## Weeks 10–13 — Laravel Task 17
 
