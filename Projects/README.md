@@ -12,4 +12,6 @@ Projects are organized week-wise and task-wise, allowing easy navigation through
 - **Week 04** – Laravel Basics
 - **Weeks 05–06** – Laravel Development Task 15
 - **Weeks 07–09** – Laravel Task 16
+- **Weeks 10–13** – Laravel Task 17  Student Course & Fee Management System
+
 
