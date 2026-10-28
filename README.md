@@ -103,6 +103,12 @@ Projects/
 ```
 ---
 
+### Laravel Projects
+
+- [Task 15 – Laravel Profile Page](./Projects/Week-05,06/Task15-Profile-Page/README.md)
+- [Task 16 – Student Registration CRUD](./Projects/Week-07,08,09/Task16-Student-Registration-CRUD/README.md)
+- [Task 17 – Student Course & Fee Management](./Projects/Week-10,11,12,13/Task17-Student-Course-Fee-Management/README.md)
+
 # Quick Navigation
 
 ## Repository Sections
