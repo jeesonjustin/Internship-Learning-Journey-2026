@@ -86,6 +86,10 @@ Internship-Learning-Journey-2026/
 * 📘 [Week 07 Progress Report](./Weekly-Progress/Week-07.md)
 * 📘 [Week 08 Progress Report](./Weekly-Progress/Week-08.md)
 * 📘 [Week 09 Progress Report](./Weekly-Progress/Week-09.md)
+- 📘 [Week 10 Progress Report](./Weekly-Progress/Week-10.md)
+- 📘 [Week 11 Progress Report](./Weekly-Progress/Week-11.md)
+- 📘 [Week 12 Progress Report](./Weekly-Progress/Week-12.md)
+- 📘 [Week 13 Progress Report](./Weekly-Progress/Week-13.md)
 
 ---
 
