@@ -29,7 +29,9 @@ Internship-Learning-Journey-2026/
 │       ├── Week-03/
 │       ├── Week-04/
 │       ├── Week-05,06/
-│       └── Week-07,08,09/
+│       ├── Week-07,08,09/
+│       ├── Week-10,11,12,13/
+│       └── README.md
 │
 ├── Learning-Notes/
 │   ├── HTML-CSS-JS/
@@ -45,6 +47,7 @@ Internship-Learning-Journey-2026/
 │   ├── Week-04/
 │   ├── Week-05,06/
 │   ├── Week-07,08,09/
+│   ├── Week-10,11,12,13/
 │   └── README.md
 │
 ├── Weekly-Progress/
@@ -57,11 +60,14 @@ Internship-Learning-Journey-2026/
 │   ├── Week-07.md
 │   ├── Week-08.md
 │   ├── Week-09.md
+│   ├── Week-10.md
+│   ├── Week-11.md
+│   ├── Week-12.md
+│   ├── Week-13.md
 │   └── README.md
 │
 └── README.md
 ```
-
 ---
 
 # Quick Navigation
