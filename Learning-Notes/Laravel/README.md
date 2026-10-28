@@ -161,9 +161,66 @@ Summarize the new concepts and skills gained from completing Task 16.
 
 ---
 
-*Update these notes as the implementation progresses and record only the concepts actually practised.*
+# Laravel Task 17 — Student Course & Fee Management System
 
+## Overview
 
-*Update these notes as the implementation progresses and additional concepts are practised.*
-*Add further explanations and examples as these concepts are practised during the internship.*
+These notes document the Laravel concepts and development practices explored while building the Student Course & Fee Management System during Weeks 10–13.
 
+## 1. Eloquent Models
+
+Laravel Eloquent provides an object-oriented way to interact with database records through models.
+
+In this project, models represent the student, course, and fee payment entities.
+
+## 2. Database Relationships
+
+The project uses related records to associate fee payments with students and courses.
+
+Document the relationships defined in the actual models, including their types and how they are used by the application.
+
+## 3. CRUD Operations
+
+CRUD stands for Create, Read, Update, and Delete.
+
+The project applies the relevant CRUD operations to the student, course, and fee records according to its implemented functionality.
+
+## 4. Validation
+
+Laravel validation helps check submitted data before it is processed.
+
+Record the validation rules used for student references, course references, payment amounts, and any other fields in the project.
+
+## 5. Searching
+
+Search functionality helps users retrieve relevant records based on the search criteria supported by the application.
+
+Document how the search is implemented and which related fields can be searched.
+
+## 6. Fee Payments and Installments
+
+Fee payment records should preserve the payment history required by the application.
+
+Where installment payments are supported, document how individual payments are stored and how the total paid amount and remaining balance are calculated.
+
+## 7. Dashboard Statistics
+
+Dashboard statistics summarize relevant application data.
+
+Document the actual statistics displayed and explain how the application retrieves or calculates them.
+
+## 8. Challenges and Solutions
+
+Record the issues encountered during development and the steps used to resolve them.
+
+## 9. Learning Outcomes
+
+Task 17 strengthened my understanding of Laravel models, database relationships, CRUD operations, validation, search, and the development of a database-driven application.
+
+## Related Project
+
+[Task 17 — Student Course & Fee Management System](../../Projects/Week-10,11,12,13/Task17-Student-Course-Fee-Management/README.md)
+
+---
+
+*These notes should be expanded with actual code examples, validation rules, relationship definitions, and lessons learned from the implementation.*
