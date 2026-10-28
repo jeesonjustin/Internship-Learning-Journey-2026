@@ -214,6 +214,15 @@ Document the actual statistics displayed and explain how the application retriev
 Record the issues encountered during development and the steps used to resolve them.
 
 ### 9. Learning Outcomes
+#### Weeks 10–13 — Laravel Task 17
+
+- Student, course, and fee management
+- Eloquent models and database relationships
+- CRUD operations
+- Form validation
+- Fee payment records
+- Search functionality
+- Dashboard statistics
 
 Task 17 strengthened my understanding of Laravel models, database relationships, CRUD operations, validation, search, and the development of a database-driven application.
 
