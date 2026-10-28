@@ -70,6 +70,39 @@ Internship-Learning-Journey-2026/
 ```
 ---
 
+## Repository Structure (LARAVEL)
+
+```text
+Projects/
+├── Week-05,06/
+│   ├── Task15-Profile-Page/
+│   │   ├── app/
+│   │   ├── resources/
+│   │   ├── routes/
+│   │   └── README.md
+│   └── README.md
+├── Week-07,08,09/
+│   ├── Task16-Student-Registration-CRUD/
+│   │   ├── app/
+│   │   ├── database/
+│   │   ├── resources/
+│   │   ├── routes/
+│   │   └── README.md
+│   └── README.md
+├── Week-10,11,12,13/
+│   ├── Task17-Student-Course-Fee-Management/
+│   │   ├── Models/
+│   │   ├── app/Http/Controllers/
+│   │   ├── database/migrations/
+│   │   ├── public/css/
+│   │   ├── resources/views/
+│   │   ├── routes/
+│   │   └── README.md
+│   └── README.md
+└── README.md
+```
+---
+
 # Quick Navigation
 
 ## Repository Sections
