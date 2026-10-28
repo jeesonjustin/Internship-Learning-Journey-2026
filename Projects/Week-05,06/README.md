@@ -26,6 +26,24 @@ Develop a profile page using Laravel routing, controllers, and Blade templating.
 * Improving code structure and readability
 * Applying Laravel fundamentals through practical work
 
+## Project Folder Structure
+
+Task15-Profile-Page/
+│
+├── app/
+│   └── Http/
+│       └── Controllers/
+│           └── ProfileController.php
+│
+├── resources/
+│   └── views/
+│       └── profile.blade.php
+│
+├── routes/
+│   └── web.php
+│
+└── README.md
+
 ## Documentation
 
 The task implementation and learning outcomes are documented in the individual task README.
