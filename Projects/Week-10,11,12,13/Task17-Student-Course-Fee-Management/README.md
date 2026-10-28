@@ -99,11 +99,9 @@ Where installment payments are supported, each payment should remain an individu
 
 ## Screenshots
 
-Add screenshots of the actual application below.
-
 ### Dashboard
 
-![Student Course and Fee Management Dashboard](../../../Assets/Screenshots/Week-10,11,12,13/Student-Course-Fee-Management/dashboard.png)
+![Task 17 Dashboard](../../../Assets/Screenshots/Week-10,11,12,13/Student-Course-Fee-Management/dashboard.png)
 
 ### Student Management
 
@@ -116,12 +114,6 @@ Add screenshots of the actual application below.
 ### Fee Payments
 
 ![Fee Payment Management](../../../Assets/Screenshots/Week-10,11,12,13/Student-Course-Fee-Management/fee-payments.png)
-
-### Search and Validation
-
-![Fee Search and Validation](../../../Assets/Screenshots/Week-10,11,12,13/Student-Course-Fee-Management/fee-search.png)
-
-*Replace the example filenames with your actual uploaded screenshots. Remove any image sections for which you do not have screenshots.*
 
 ## Testing
 
