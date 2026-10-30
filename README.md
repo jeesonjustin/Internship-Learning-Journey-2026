@@ -201,7 +201,15 @@ Projects/
 * Input validation and search
 * Dashboard statistics
 
-*Task-specific details should remain consistent with the actual implementation.*
+## Week 14 – Introduction to Angular & Fundamentals
+
+- Introduction to Angular and TypeScript.
+- Node.js and Angular CLI installation.
+- Angular project creation and execution using `ng serve`.
+- Understanding Angular project structure.
+- Introduction to components and templates.
+- Exploring interpolation, property binding, event binding, and two-way data binding.
+- **Status:** In Progress
 
 ---
 
