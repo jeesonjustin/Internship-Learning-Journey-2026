@@ -18,15 +18,15 @@ The project helps manage student records, courses, and fee payments through a st
 
 ## Task Requirements
 
-# Task 17 – Student Course & Fee Management System
+### Task 17 – Student Course & Fee Management System
 
-## Project Overview
+#### Project Overview
 
 The **Student Course & Fee Management System** is a web-based application developed using Laravel. It provides a centralized platform to manage student registrations, course details, and fee payment records.
 
 The application implements CRUD operations, Eloquent relationships, server-side validation, search functionality, and dashboard statistics. It also provides a clean, responsive, and user-friendly interface for managing student and financial information efficiently.
 
-## Objectives
+#### Objectives
 
 - Manage student registrations and personal information.
 - Maintain course details, durations, and fee amounts.
@@ -36,9 +36,9 @@ The application implements CRUD operations, Eloquent relationships, server-side 
 - Implement search functionality for students, courses, and fee records.
 - Display important statistics through a centralized dashboard.
 
-## Features & Functionalities
+### Features & Functionalities
 
-### 1. Student Management
+#### 1. Student Management
 
 **Student Registration**
 - Register students with the following details:
@@ -69,7 +69,7 @@ The application implements CRUD operations, Eloquent relationships, server-side 
 **Delete Student**
 - Implement soft deletion to remove student records without permanently deleting them from the database.
 
-### 2. Course Management
+#### 2. Course Management
 
 **Course Registration**
 - Add new courses with the following details:
@@ -96,7 +96,7 @@ The application implements CRUD operations, Eloquent relationships, server-side 
 **Delete Course**
 - Delete course records from the system.
 
-### 3. Fee Management
+#### 3. Fee Management
 
 **Fee Payment**
 - Record student course fee payments.
@@ -139,7 +139,7 @@ Balance Amount is calculated using the following formula:
 **Delete Fee Record**
 - Delete fee payment records from the system.
 
-### 4. Dashboard Statistics
+#### 4. Dashboard Statistics
 
 Provide a centralized dashboard displaying an overview of the system.
 
@@ -152,7 +152,7 @@ The dashboard includes:
 
 Use Laravel Eloquent methods such as `count()` and `sum()` to retrieve dashboard statistics from the database.
 
-## Technical Implementation
+### Technical Implementation
 
 - **Backend:** PHP, Laravel
 - **Frontend:** HTML, CSS, JavaScript, Blade Templates
@@ -160,7 +160,7 @@ Use Laravel Eloquent methods such as `count()` and `sum()` to retrieve dashboard
 - **ORM:** Laravel Eloquent ORM
 - **Architecture:** Model-View-Controller (MVC)
 
-## Key Laravel Concepts Implemented
+### Key Laravel Concepts Implemented
 
 - Routing and Controllers
 - Model-View-Controller (MVC) Architecture
@@ -175,7 +175,7 @@ Use Laravel Eloquent methods such as `count()` and `sum()` to retrieve dashboard
 - Session Flash Messages
 - Dashboard Data Aggregation
 
-## User Interface
+### User Interface
 
 The application uses a clean, modern, and responsive interface with separate pages for:
 
