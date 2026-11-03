@@ -175,33 +175,12 @@ Use Laravel Eloquent methods such as `count()` and `sum()` to retrieve dashboard
 - Session Flash Messages
 - Dashboard Data Aggregation
 
-### User Interface
-
-The application uses a clean, modern, and responsive interface with separate pages for:
-
-- Student Management
-- Course Management
-- Fee Management
-- Dashboard
-
-The interface is designed to provide an organized workspace and improve the overall user experience.
-
 ---
 
 **Project:** Internship Task 17 – Laravel Task 3  
 **Application:** Student Course & Fee Management System  
 **Framework:** Laravel  
 **Database:** MySQL
-
-## Technologies Used
-
-* PHP
-* Laravel
-* MySQL
-* Blade Templating Engine
-* HTML
-* CSS
-* JavaScript
 
 ## Key Features
 
