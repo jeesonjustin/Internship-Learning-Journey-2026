@@ -16,6 +16,183 @@ The project helps manage student records, courses, and fee payments through a st
 * Calculate and display fee-related information.
 * Build a consistent and user-friendly interface.
 
+## Task Requirements
+
+# Task 17 – Student Course & Fee Management System
+
+## Project Overview
+
+The **Student Course & Fee Management System** is a web-based application developed using Laravel. It provides a centralized platform to manage student registrations, course details, and fee payment records.
+
+The application implements CRUD operations, Eloquent relationships, server-side validation, search functionality, and dashboard statistics. It also provides a clean, responsive, and user-friendly interface for managing student and financial information efficiently.
+
+## Objectives
+
+- Manage student registrations and personal information.
+- Maintain course details, durations, and fee amounts.
+- Record and manage student course fee payments.
+- Implement CRUD operations for all three modules.
+- Establish database relationships using Laravel Eloquent ORM.
+- Implement search functionality for students, courses, and fee records.
+- Display important statistics through a centralized dashboard.
+
+## Features & Functionalities
+
+### 1. Student Management
+
+**Student Registration**
+- Register students with the following details:
+  - Name
+  - Email
+  - Phone Number
+  - Address
+- Store student information in the database.
+- Apply validation rules to ensure valid student details.
+
+**Student Listing**
+- Display all registered students in a structured table.
+- Include the following information:
+  - Student Name
+  - Email
+  - Phone Number
+  - Address
+  - Actions (Edit/Delete)
+
+**Search Functionality**
+- Search students by name or email.
+- Display only matching student records.
+
+**Update Student Details**
+- Edit and update existing student information.
+- Validate the updated information before saving.
+
+**Delete Student**
+- Implement soft deletion to remove student records without permanently deleting them from the database.
+
+### 2. Course Management
+
+**Course Registration**
+- Add new courses with the following details:
+  - Course Name
+  - Duration
+  - Fee Amount
+- Store course information in the database.
+
+**Course Listing**
+- Display all available courses in a structured table.
+- Include the following information:
+  - Course Name
+  - Duration
+  - Fee Amount
+  - Actions (Edit/Delete)
+
+**Search Functionality**
+- Search courses by course name.
+- Display only matching course records.
+
+**Update Course Details**
+- Edit and update existing course information.
+
+**Delete Course**
+- Delete course records from the system.
+
+### 3. Fee Management
+
+**Fee Payment**
+- Record student course fee payments.
+- Select a student from a dropdown list.
+- Select a course from a dropdown list.
+- Retrieve course fee information from the database.
+- Record the following payment details:
+  - Student
+  - Course
+  - Paid Amount
+  - Payment Date
+  - Payment Method
+
+**Fee Payment Listing**
+
+Display all fee payment records in a structured table, including:
+
+- Student Name
+- Course Name
+- Course Fee
+- Paid Amount
+- Balance Amount
+- Payment Date
+- Payment Method
+- Actions (Edit/Delete)
+
+**Balance Calculation**
+
+Balance Amount is calculated using the following formula:
+
+`Balance Amount = Course Fee - Paid Amount`
+
+**Search Functionality**
+- Search fee payment records by student name or course name.
+- Display only matching payment records.
+
+**Update Fee Details**
+- Edit and update existing payment information.
+
+**Delete Fee Record**
+- Delete fee payment records from the system.
+
+### 4. Dashboard Statistics
+
+Provide a centralized dashboard displaying an overview of the system.
+
+The dashboard includes:
+
+- **Total Number of Students** – Displays the total registered students.
+- **Total Number of Courses** – Displays the total available courses.
+- **Total Fee Collections** – Displays the total amount collected from fee payments.
+- **Total Number of Fee Records** – Displays the total number of recorded payment transactions.
+
+Use Laravel Eloquent methods such as `count()` and `sum()` to retrieve dashboard statistics from the database.
+
+## Technical Implementation
+
+- **Backend:** PHP, Laravel
+- **Frontend:** HTML, CSS, JavaScript, Blade Templates
+- **Database:** MySQL
+- **ORM:** Laravel Eloquent ORM
+- **Architecture:** Model-View-Controller (MVC)
+
+## Key Laravel Concepts Implemented
+
+- Routing and Controllers
+- Model-View-Controller (MVC) Architecture
+- Database Migrations
+- Eloquent ORM
+- One-to-Many and Belongs-To Relationships
+- CRUD Operations
+- Form Validation
+- Search Functionality
+- Soft Deletes
+- Blade Templates
+- Session Flash Messages
+- Dashboard Data Aggregation
+
+## User Interface
+
+The application uses a clean, modern, and responsive interface with separate pages for:
+
+- Student Management
+- Course Management
+- Fee Management
+- Dashboard
+
+The interface is designed to provide an organized workspace and improve the overall user experience.
+
+---
+
+**Project:** Internship Task 17 – Laravel Task 3  
+**Application:** Student Course & Fee Management System  
+**Framework:** Laravel  
+**Database:** MySQL
+
 ## Technologies Used
 
 * PHP
