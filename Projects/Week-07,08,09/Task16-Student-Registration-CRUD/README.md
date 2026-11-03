@@ -16,7 +16,34 @@ Building on the Laravel fundamentals and the Profile Page task, this stage focus
 
 ## Task Requirements
 
-Add the actual requirements provided for Task 16 here.
+### Task 16 – Laravel Task 2: Student Registration & CRUD Operations
+
+#### Objective
+
+Build a **Student Registration & CRUD Application** using Laravel that allows users to register students, store their details in a MySQL database, and perform complete **Create, Read, Update, and Delete (CRUD)** operations.
+
+The application should provide a student registration form and display all registered students in a responsive table. Users should also be able to edit existing student records, delete records with confirmation, and receive appropriate success messages after each operation.
+
+#### Student Details
+
+- Student Name
+- Email Address
+- Mobile Number
+- Course
+
+#### Requirements
+
+- Create a student registration form using Laravel Blade templates.
+- Validate all form fields using Laravel's built-in validation.
+- Store student details in a MySQL database using Eloquent ORM.
+- Display all registered students in a Bootstrap-styled, responsive table.
+- Implement complete CRUD operations:
+  - **Create:** Register new students.
+  - **Read:** Display all registered students.
+  - **Update:** Edit and update existing student details.
+  - **Delete:** Delete student records with a confirmation prompt.
+- Display appropriate success messages after registration, updating, and deletion.
+
 
 ## Features Implemented
 
