@@ -16,7 +16,18 @@ The task focuses on applying Laravel fundamentals, including routing, controller
 
 ## Task Requirements
 
-Add the actual requirements provided for Task 16 here.
+Task15 - Laravel  Task 1: Profile Page
+Objective
+Create a Profile Page that contains the following information:
+Personal Information
+Full Name
+Age
+Gender
+Date of Birth
+Email Address
+Phone Number
+Qualification
+Styling Requirements
 
 ## Profile Fields
 
